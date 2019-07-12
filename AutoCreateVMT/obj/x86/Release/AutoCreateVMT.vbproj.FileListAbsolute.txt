@@ -1,0 +1,4 @@
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\bin\Release\AutoCreateVMT.exe
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\obj\x86\Release\AutoCreateVMT.Resources.resources
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\obj\x86\Release\AutoCreateVMT.vbproj.GenerateResource.Cache
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\obj\x86\Release\AutoCreateVMT.exe

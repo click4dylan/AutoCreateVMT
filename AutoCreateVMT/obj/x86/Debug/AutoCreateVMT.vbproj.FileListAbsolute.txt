@@ -1,0 +1,6 @@
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\bin\Debug\AutoCreateVMT.exe
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\bin\Debug\AutoCreateVMT.pdb
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\obj\x86\Debug\AutoCreateVMT.Resources.resources
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\obj\x86\Debug\AutoCreateVMT.vbproj.GenerateResource.Cache
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\obj\x86\Debug\AutoCreateVMT.exe
+I:\Visual Studio 2012\AutoCreateVMT\AutoCreateVMT\obj\x86\Debug\AutoCreateVMT.pdb
